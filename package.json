@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A utilty library to easily setup list hokeys",
   "author": "hayke102",
+  "keywords": ["react", "hotkeys", "react-hotkeys", "navigation", "react-navigation", "list", "list-hotkeys", "list-navigation"],
   "license": "MIT",
   "repository": "hayke102/react-list-hotkeys",
   "main": "dist/index.js",
