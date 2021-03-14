@@ -1,6 +1,6 @@
 {
   "name": "react-list-hotkeys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utilty library to easily setup list hokeys",
   "author": "hayke102",
   "keywords": ["react", "hotkeys", "react-hotkeys", "navigation", "react-navigation", "list", "list-hotkeys", "list-navigation"],
