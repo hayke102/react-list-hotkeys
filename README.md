@@ -25,6 +25,7 @@ const [selectedIndex, setSelectedIndex] = useListHotkeys(data, ({item, index}) =
 
 ## Example
 
+Live [here](https://hayke102.github.io/react-list-hotkeys/)
 ![Example](hotkey.gif)
 
 ### the code behind:
